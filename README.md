@@ -1,4 +1,4 @@
-<img width="1280" alt="Make your README 10" src="https://user-images.githubusercontent.com/104682798/236133610-7f805e1c-b405-41c0-bb4c-ceb7677609d7.png">
+<img width="1340" alt="Make your README 10" src="https://user-images.githubusercontent.com/104682798/236136171-4852106e-8481-452a-9f7f-ca10849a4444.png">
 <!--### Hi there 👋
 
 
