@@ -29,6 +29,7 @@ I'm an enthusiastic junior full stack developer who has recently completed the S
     
 ---
 <details>
+    
   <summary>:computer: Projects</summary>
 
 | Project                     | Repositories    | Live Website  | Tech    |
