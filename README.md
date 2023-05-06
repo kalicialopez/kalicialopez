@@ -8,7 +8,7 @@ I'm an enthusiastic junior full stack developer who has recently completed the S
 
 <p align='center'>
   Check out my <a href=http://www.linktr.ee/kalicialopez">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank" /></a> for all the ways to reach me.
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=flat&logo=linktree&logoColor=white" target="_blank" /></a> for all the ways to reach me.
 </p>
     <p align='center'>
   📫 Quick reach me: <a href='mailto:k.alicia.lopez@gmail.com'>k.alicia.lopez@gmail.com</a>
