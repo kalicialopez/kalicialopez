@@ -33,6 +33,7 @@ I'm an enthusiastic junior full stack developer who has recently completed the S
 <details>
     
   <summary>:computer: Projects</summary>
+  <div align='center'>
 
 | Project                     | Repositories    | Live Website  | Tech    |
 | :-------------------------- |:----------------| :-------------| :-------------|
@@ -41,11 +42,10 @@ I'm an enthusiastic junior full stack developer who has recently completed the S
 | Newsletter Clone            | <a href="https://github.com/kalicialopez/she-codes-django-news-project-kalicialopez" target="_blank">Repo</a>        |             | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 | Crowdfunding Platform       | <a href="https://github.com/kalicialopez/she-codes-crowdfunding-api-project-kalicialopez" target="_blank">API</a><br/> <a href="https://github.com/kalicialopez/crowdfunding" target="_blank">Front-end</a>               |               | ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white) <br/> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 | Comparison Shopping List App| <a href="https://github.com/SheCodesAus/django_unchained_group_2023_backend" target="_blank">API</a> <br/> <a href="https://github.com/SheCodesAus/django_unchained_group_2023_frontend" target="_blank">Front-end</a>  |            | ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)  <br/> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
+   </div>
 </details>
     
 <details>
-    
   <summary>:wrench: Tech Stack</summary>
     
 #### Languages
@@ -70,13 +70,11 @@ I'm an enthusiastic junior full stack developer who has recently completed the S
     
 </details>    
 
+    
 <!--### Hi there 👋
-
-
 **kalicialopez/kalicialopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
