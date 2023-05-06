@@ -1,10 +1,10 @@
-<img width="1340" alt="Make your README 10" src="https://user-images.githubusercontent.com/104682798/236136171-4852106e-8481-452a-9f7f-ca10849a4444.png">
-
+<img width="1340" alt="Make your README 10" src="https://user-images.githubusercontent.com/104682798/236136171-4852106e-8481-452a-9f7f-ca10849a4444.png"><br/>
+  <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkalicialopez1212%2Fhit-counter" />
+<br/>
 <p align='center'>
 I'm an enthusiastic junior full stack developer who has recently completed the She Codes Plus Program, and is set to complete my data analytics certification July 2023. I'm currently seeking a technical role where I can apply my knowledge and problem-solving skills to build real-world applications and continue my learning! 
 </p>
 
----
 
 <p align='center'>
   Check out my <a href=http://www.linktr.ee/kalicialopez">
@@ -25,6 +25,7 @@ I'm an enthusiastic junior full stack developer who has recently completed the S
 <!--     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars,issues" width="350"></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalicialopez&layout=compact)](https://github.com/kalicialopez/github-readme-stats)" />  -->
     
 [![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars,issues)](https://github.com/kalicialopez/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalicialopez&layout=compact&theme=dark)](https://github.com/kalicialopez/github-readme-stats)
+
 </div>
     
 ---
