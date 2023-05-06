@@ -18,13 +18,15 @@ I'm an enthusiastic junior full stack developer who has recently completed the S
     Follow me on 
     <a href="https://instagram.com/kalicialopez" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>to see my foodie, boardgame, dancing and language learning adventures.
+  </a>to see my foodie, boardgame, dance and language learning adventures.
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
+<div align='center'>
+<!--     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars,issues" width="350"></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalicialopez&layout=compact)](https://github.com/kalicialopez/github-readme-stats)" />  -->
+    
+[![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars,issues)](https://github.com/mariapetra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalicialopez&layout=compact)](https://github.com/kalicialopez/github-readme-stats)
+</div>
+    
 ---
 ## :computer: My Projects
     
