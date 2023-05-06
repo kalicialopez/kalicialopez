@@ -42,6 +42,7 @@ I'm an enthusiastic junior full stack developer who has recently completed the S
 </details>
     
 <details>
+    
   <summary>:wrench: Tech Stack</summary>
     
 ### Languages
