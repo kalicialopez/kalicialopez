@@ -28,6 +28,7 @@ I'm an enthusiastic junior full stack developer who has recently completed the S
 </div>
     
 ---
+    
 <details>
     
   <summary>:computer: Projects</summary>
