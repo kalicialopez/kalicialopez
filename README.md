@@ -24,7 +24,8 @@ I'm an enthusiastic junior full stack developer who has recently completed the S
 <div align='center'>
 <!--     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars,issues" width="350"></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalicialopez&layout=compact)](https://github.com/kalicialopez/github-readme-stats)" />  -->
     
-[![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars,issues)](https://github.com/kalicialopez/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalicialopez&layout=compact&theme=dark)](https://github.com/kalicialopez/github-readme-stats)
+<!--[![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars,issues)](https://github.com/kalicialopez/github-readme-stats) --> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalicialopez&layout=compact&theme=dark)](https://github.com/kalicialopez/github-readme-stats)
 
 </div>
     
