@@ -18,13 +18,13 @@ I'm an enthusiastic full-stack developer currently seeking a technical role wher
     Follow me on 
     <a href="https://instagram.com/kalicialopez" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" />        
-  </a>for my foodie, boardgame, dance and language learning adventures.
+  </a>for my foodie, boardgame, dance and language-learning adventures.
 </p>
 
 <div align='center'>
 <!--     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars,issues" width="350"></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalicialopez&layout=compact)](https://github.com/kalicialopez/github-readme-stats)" />  -->
     
-<!--[![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars,issues)](https://github.com/kalicialopez/github-readme-stats) --> 
+[![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars)](https://github.com/kalicialopez/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalicialopez&layout=compact&theme=dark)](https://github.com/kalicialopez/github-readme-stats)
 
 </div>
@@ -71,17 +71,4 @@ I'm an enthusiastic full-stack developer currently seeking a technical role wher
     
 </details>    
 
-    
-<!--### Hi there 👋
-**kalicialopez/kalicialopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
