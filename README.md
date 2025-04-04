@@ -71,4 +71,4 @@ I'm an enthusiastic full-stack developer currently seeking a technical role wher
     
 </details>    
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/kalicialopez/kalicialopez/output/github-contribution-grid-snake.svg" />
+<!-- <img alt="GitHub Snake" src="https://raw.githubusercontent.com/kalicialopez/kalicialopez/output/github-contribution-grid-snake.svg" /> -->
