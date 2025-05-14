@@ -2,7 +2,7 @@
   <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkalicialopez1212%2Fhit-counter" />
 <br/>
 <p align='center'>
-I'm an enthusiastic full-stack developer currently seeking a technical role where I can apply my knowledge and problem-solving skills to build real-world applications and continue my learning! 
+Software developer
 </p>
 
 
