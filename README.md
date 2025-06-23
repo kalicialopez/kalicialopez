@@ -1,6 +1,8 @@
-<img width="1340" alt="Make your README 10" src="https://user-images.githubusercontent.com/104682798/236136171-4852106e-8481-452a-9f7f-ca10849a4444.png"><br/>
-  <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkalicialopez1212%2Fhit-counter" />
+<!-- <img width="1340" alt="Make your README 10" src="https://user-images.githubusercontent.com/104682798/236136171-4852106e-8481-452a-9f7f-ca10849a4444.png">
 <br/>
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkalicialopez1212%2Fhit-counter" />
+<br/> -->
+![nyancat-blue-rainbow](https://github.com/user-attachments/assets/7da52f0c-386b-4cfa-85e3-e5ed0db4a7d8)
 <p align='center'>
 Software developer
 </p>
@@ -24,7 +26,7 @@ Software developer
 <div align='center'>
 <!--     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars,issues" width="350"></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalicialopez&layout=compact)](https://github.com/kalicialopez/github-readme-stats)" />  -->
     
-[![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars)](https://github.com/kalicialopez/github-readme-stats)
+<!-- [![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars)](https://github.com/kalicialopez/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalicialopez&layout=compact&theme=dark)](https://github.com/kalicialopez/github-readme-stats)
 
 </div>
@@ -51,7 +53,6 @@ Software developer
     
 ##### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
 
 ##### Frameworks & Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![DjangoREST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
