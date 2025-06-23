@@ -16,12 +16,12 @@ Software developer
   📫 Quick reach me: <a href='mailto:k.alicia.lopez@gmail.com'>k.alicia.lopez@gmail.com</a>
 </p>
     
-<p align='center'>
+<!-- <p align='center'>
     Follow me on 
     <a href="https://instagram.com/kalicialopez" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" />        
   </a>for my foodie, boardgame, dance and language-learning adventures.
-</p>
+</p> -->
 
 <div align='center'>
 <!--     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kalicialopez&show_icons=true&count_private=true&theme=dark&hide=stars,issues" width="350"></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalicialopez&layout=compact)](https://github.com/kalicialopez/github-readme-stats)" />  -->
