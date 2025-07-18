@@ -9,12 +9,12 @@ Software developer
 
 
 <p align='center'>
-  Check out my <a href=http://www.linktr.ee/kalicialopez">
+  <a href=http://www.linktr.ee/kalicialopez">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=flat&logo=linktree&logoColor=white" target="_blank" /></a> for all the ways to reach me.
-</p>
+<!-- </p>
     <p align='center'>
   📫 Quick reach me: <a href='mailto:k.alicia.lopez@gmail.com'>k.alicia.lopez@gmail.com</a>
-</p>
+</p> -->
     
 <!-- <p align='center'>
     Follow me on 
